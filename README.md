@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Front-end Developer, MERN stack Developer, Full-stack Developer
 ---------------------------------------------------------------
 
-I am a Full-Stack Developer who enjoys creating artful User Experiences using the MERN stack. In addition to being extremely proficient in JavaScript, I also have extensive knowledge in backend technologies like Java and Python.
+I am a Full-Stack Developer who enjoys creating Artful User Experiences using the MERN STACK. In addition to being extremely proficient in JavaScript, I also have extensive knowledge in backend technologies like Java and Python.
 
 *   🌍  I'm based in Texas
 *   🖥️  See my portfolio at [Easter Developer Portfolio](http://uwill18.github.io/Easter_Dev_Portfolio_3.0/)
