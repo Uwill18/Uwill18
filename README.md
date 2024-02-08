@@ -43,7 +43,7 @@ I am a Full-Stack Developer who enjoys creating Artful User Experiences using th
                     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
                     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
                     </picture>
-                    </a></p> 
+<!--                     </a></p> 
                     <b>My GitHub Stats</b>
                     <a href="http://www.github.com/Uwill18"><br/><img
-                  src="https://github-readme-streak-stats.herokuapp.com/?user=Uwill18&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+                  src="https://github-readme-streak-stats.herokuapp.com/?user=Uwill18&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a> -->
